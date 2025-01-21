@@ -1,1 +1,2 @@
 # AI-chatbot-for-trip-guide
+This project involves developing an AI-powered chatbot designed to assist travelers by offering quick, customized support. The chatbot can answer travel-related questions, recommend local attractions, help with itinerary planning, and manage trip details such as hotel bookings, flight reservations, and transportation arrangements. Using natural language processing (NLP) and machine learning, the chatbot communicates in a friendly, user-friendly manner, ensuring an easy and engaging experience for travelers.
